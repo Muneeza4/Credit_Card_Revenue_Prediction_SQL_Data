@@ -2,13 +2,6 @@
 
 This project predicts revenue from credit card transactions using a Random Forest Regressor model.
 
-## Requirements
-
-To install the dependencies, run:
-
-```bash
-pip install -r requirements.txt
-
 
 Credit Card Revenue Prediction
 
