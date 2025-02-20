@@ -1,13 +1,36 @@
-# Credit Card Revenue Prediction
+# Credit Card Transaction Analysis Dashboard
 
-This project predicts revenue from credit card transactions using a Random Forest Regressor model.
+This project provides a **Credit Card Transaction Analysis Dashboard** that visualizes key metrics related to credit card usage, transaction trends, and revenue insights. The dashboard helps in understanding transaction behavior, revenue distribution, and usage patterns.
 
+## Features
+- **Revenue Analysis**: Displays total revenue, average utilization, and interest earned.
+- **Transaction Insights**: Shows transaction volume, card activations, and revolving amounts.
+- **Mode of Transaction**: Analyzes payment methods (Swipe, Chip, Online) with percentage distribution.
+- **Monthly Revenue Trends**: Visualizes revenue changes across different months.
+- **Quarterly Filtering**: Allows users to filter data based on quarters.
 
-Credit Card Revenue Prediction
+## Dashboard Screenshots
 
-Developed a machine learning model to predict revenue from credit card transactions using a Random Forest Regressor. The project involved preprocessing data, feature engineering, and evaluating model performance. Integrated PostgreSQL for data management and visualized insights with Plotly and Matplotlib. Deployed the solution as a Streamlit web application for easy interaction and predictions.
+### Credit Card Analysis Dashboard
+![Dashboard Overview](ss_1.png)
 
-Skills: Machine Learning, Random Forest, Data Preprocessing, PostgreSQL, Streamlit, Python, Data Visualization
+### Transaction Insights
+![Transaction Details](ss_2.png)
+
+### Revenue Trends
+![Revenue Analysis](ss_3.png)
+
+## How to Use
+1. Open the dashboard in Power BI.
+2. Use the filters to explore different quarters and weeks.
+3. Analyze transaction trends, revenue, and usage patterns.
+4. Gain insights into credit card utilization and revenue streams.
+
+## Technologies Used
+- **Power BI**: For data visualization.
+- **Python & SQL**: Data preprocessing and transformation.
+- **PostgreSql**: Data source.
+
 
 
 Link of app
